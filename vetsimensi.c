@@ -6,7 +6,6 @@ int main()
     if(a<b)
     {
         printf("%d je větší",b);
-        
     }
     else 
     {
